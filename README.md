@@ -11,4 +11,6 @@ My areas of specialisation are:
 - CI/CD
 - IaC with Terraform
 
+Aside from my main work, I love working on open source. I am an active [member](https://github.com/orgs/cloudposse/people?query=role%3Amember) of the awesome [CloudPosse](https://github.com/cloudposse) GitHub org, actively reviewing and submitting PRs to their Terraform module projects.
+
 [Contact me](https://originalmind.com.au/#contact) to organise a chat about your project.
