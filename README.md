@@ -1,7 +1,7 @@
 ### Joe Niland - Software/DevOps Engineer
 
 <a href="https://stackexchange.com/users/152432"><img src="https://stackexchange.com/users/flair/152432.png?theme=clean" width="208" height="58" alt="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-[![joe-niland's github stats](https://github-readme-stats.vercel.app/api?username=joe-niland&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![joe-niland's github stats](https://github-readme-stats.vercel.app/api?username=joe-niland&count_private=true&show_icons=true&theme=slateorange&hide_rank=false&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 I run a [software development & DevOps consultancy in Sydney, Australia](https://originalmind.com.au). We **create business software**, staff and structure development teams, and help our clients build and run **secure Cloud infrastructure** in AWS.
 
