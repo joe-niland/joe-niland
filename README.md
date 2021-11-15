@@ -8,7 +8,7 @@ I run a [software development & DevOps consultancy in Sydney, Australia](https:/
 My areas of specialisation are:
 - Software architecture and design
 - Staffing and running software development projects
-- Software development using stacks such as: Laravel/Vue, ASP.NET/C#, Flask and more
+- Software development using frameworks such as: Laravel/Vue, ASP.NET (C#)/Blazor, Flask and more
 - Serverless event-driven applications
 - CI/CD
 - IaC with Terraform
