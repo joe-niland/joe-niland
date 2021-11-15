@@ -12,6 +12,7 @@ My areas of specialisation are:
 - Serverless event-driven applications
 - CI/CD
 - IaC with Terraform
+- Xero integration
 
 Aside from my main work, I ❤️ working on open source. I am an active [member](https://github.com/orgs/cloudposse/people?query=role%3Amember) of the awesome [CloudPosse](https://github.com/cloudposse) GitHub org, actively reviewing and submitting PRs to their Terraform module projects.
 
