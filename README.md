@@ -4,6 +4,8 @@
 
 [![joe-niland's github stats](https://github-readme-stats.vercel.app/api?username=joe-niland&count_private=true&show_icons=true&theme=swift&hide_rank=false&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![animated contrib board](github-contribution-grid-snake.svg)
+
 I run a [software development & DevOps consultancy in Sydney, Australia](https://originalmind.com.au). We **create business software**, staff and structure development teams, and help our clients build and run **secure Cloud infrastructure** in AWS.
 
 My areas of specialisation are:
