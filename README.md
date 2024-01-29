@@ -14,7 +14,21 @@
 
 #### About Me
 
-I run a [software development & DevOps consultancy in Sydney, Australia](https://originalmind.com.au). We **create business software**, staff and structure development teams, and help our clients build and run **secure Cloud infrastructure** in AWS.
+I am a Software Engineer from Sydney, Australia with many years of industry experience. 
+I have worked in a variety of roles, including: Software Developer, Software Architect, Team Lead, 
+DevOps Engineer, and (fractional) CTO.
+
+I provide [software engineering consulting services](https://www.originalmind.com.au) to startups and 
+scale-ups, helping them to build, run and scale their software products.
+
+In recent years, I have built a great team of developers and testers. Our main specialisations are:
+- the [rapid development](https://www.sydney.software/services/custom-software-development/) of web applications, and
+- development of [finance automation solutions](https://www.sydney.software/services/finance-automation/).
+
+I have always had a keen interest in automation, which has led me to build skills in CI/CD, IaC,
+scripting, and serverless application development. I provide 
+[DevOps consulting services](https://www.originalmind.com.au), helping
+businesses optimise software delivery and infrastructure costs.
 
 My areas of specialisation are:
 - Software architecture and design
@@ -23,8 +37,8 @@ My areas of specialisation are:
 - Serverless event-driven applications
 - CI/CD
 - IaC with Terraform
-- Xero integration
+- API integrations (especially Xero)
 
 Aside from my main work, I ❤️ working on open source. I am an active [member](https://github.com/orgs/cloudposse/people?query=role%3Amember) of the awesome [Cloud Posse](https://github.com/cloudposse) GitHub org, actively reviewing and submitting PRs to their Terraform module projects.
 
-[Contact me](https://originalmind.com.au/#contact) to organise a chat about your project.
+[Contact me](https://www.sydney.software/contact) to organise a chat about your project.
