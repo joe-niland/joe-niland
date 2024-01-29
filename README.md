@@ -5,8 +5,8 @@
 [![joe-niland's github stats](https://github-readme-stats.vercel.app/api?username=joe-niland&count_private=true&show_icons=true&theme=swift&hide_rank=false&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake-dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
 </picture>
 
