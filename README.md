@@ -1,8 +1,10 @@
 ### Joe Niland - Software/DevOps Engineer
 
-<a href="https://stackexchange.com/users/152432"><img src="https://stackexchange.com/users/flair/152432.png?theme=clean" width="208" height="58" alt="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites" style="float: left; margin: 0 20px 0 0;" /></a>
+<a href="https://stackexchange.com/users/152432"><img src="https://stackexchange.com/users/flair/152432.png?theme=clean" width="208" height="58" alt="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites"  /></a>
 
 [![joe-niland's github stats](https://github-readme-stats.vercel.app/api?username=joe-niland&count_private=true&show_icons=true&theme=swift&hide_rank=true&show_icons=true&hide_border=true&show=prs_merged,reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake-dark.svg" />
