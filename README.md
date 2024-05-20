@@ -12,6 +12,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/joe-niland/joe-niland/output/github-snake.svg" />
 </picture>
 
+#### Mailing List
+
+I run a daily mailing list on building software products for non-technical founders.
+
+👉 [Sign up here](https://joeniland.com/daily) 👈
+
 #### About Me
 
 I am a Software Engineer from Sydney, Australia with many years of industry experience. 
