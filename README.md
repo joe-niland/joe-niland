@@ -2,7 +2,7 @@
 
 <a href="https://stackexchange.com/users/152432"><img align="right" src="https://stackexchange.com/users/flair/152432.png?theme=clean" width="208" height="58" alt="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Joe Niland on Stack Exchange, a network of free, community-driven Q&amp;A sites"  /></a>
 
-[![joe-niland's github stats](./profile/stats.svg)
+![joe-niland's github stats](./profile/stats.svg)
 
 #### Contributions
 
